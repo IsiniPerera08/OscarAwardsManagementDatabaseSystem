@@ -1,0 +1,301 @@
+Nomination_Id,Nomination_Role,Nomination_Nominees,Nomination_Title,Nomination_Result
+1,Writer,Zoe Saldana,Moon of Feral Dreams,Leonardo DiCaprio
+2,Composer,Taika Waititi,Storm and the Hidden Waves,Mahesh Babu
+3,Editor,Michael Fassbender,Rising Voices,Daniel Craig
+4,Composer,Russell Crowe,Fields of the Eternal Moon,Russell Crowe
+5,Producer,Shonda Rhimes,Winter of Atomic Empire,Shonda Rhimes
+6,Designer,Jet Li,Fallen Voices,Jet Li
+7,Writer,Ashley Olsen,Silent River,Jude Law
+8,Director,Kenji Mizoguchi,Fallen Echoes,Kenji Mizoguchi
+9,Writer,Tobey Maguire,Quiet Garden,Tobey Maguire
+10,Composer,Elizabeth Olsen,Voices in Crimson Garden,Mads Mikkelsen
+11,Editor,Mahershala Ali,Broken Waves,Donnie Yen
+12,Writer,Ang Lee,Velvet Echoes,Colin Firth
+13,Writer,Wagner Moura,Echoes in Wandering Waves,Wagner Moura
+14,VFX Supervisor,Michelle Yeoh,Eternal Dreams,Michelle Yeoh
+15,Composer,Chris Evans,Paths of Electric Summer,Chris Evans
+16,Actor,Mary-Kate Olsen,Broken Garden,Mary-Kate Olsen
+17,Producer,Tom Hardy,Glass Dreams,Tom Hardy
+18,Writer,Karen Gillan,City in Fallen Winter,Cobie Smulders
+19,Writer,Dev Patel,Birds of the Golden Summer,Dev Patel
+20,Composer,Bryan Cranston,Winter of Golden House,Pankaj Tripathi
+21,Composer,Gong Yoo,River and the Eternal Moon,Richard Madden
+22,Actor,Pedro Pascal,Feral Empire,Benedict Cumberbatch
+23,Writer,Monica Bellucci,City in Fallen Winter,Cobie Smulders
+24,Composer,Michael Fassbender,Wandering Waves,Toni Collette
+25,Composer,Phoebe Waller-Bridge,Fallen House,Phoebe Waller-Bridge
+26,Actor,Zhang Ziyi,Dreams from Glass Sun,Park Bo-gum
+27,Editor,Lee Byung-hun,Eternal Dreams,Michelle Yeoh
+28,Writer,Taron Egerton,River and the Eternal Moon,Richard Madden
+29,Writer,Jr NTR,Glass Shadow,Carole Bouquet
+30,Cinematographer,Angelina Jolie,Echoes from Atomic Empire,Saif Khan
+31,VFX Supervisor,Mads Mikkelsen,Broken Waves,Donnie Yen
+32,Designer,Pedro Pascal,Storm in Atomic Garden,Pedro Pascal
+33,Actor,Jeff Bridges,Hidden Sun,Jeff Bridges
+34,Composer,Keanu Reeves,Fallen Echoes,Kenji Mizoguchi
+35,Cinematographer,Christian Bale,Silver Letters,Christian Bale
+36,Composer,Hugh Jackman,Letters of Feral Empire,Hugh Jackman
+37,Composer,Devon Aoki,House in Last City,Devon Aoki
+38,VFX Supervisor,Leonardo DiCaprio,Summer in Last Voices,Leonardo DiCaprio
+39,Composer,Olivia Colman,Feral Moon,Michelle Williams
+40,Actress,Abhishek Bachchan,Winter of Golden House,Pankaj Tripathi
+41,Writer,Ashley Olsen,Winter from Golden Garden,Ashley Olsen
+42,Writer,Steven Yeun,Garden of the Paper Dreams,Steven Yeun
+43,Director,Tobey Maguire,Birds from Atomic River,Tobey Maguire
+44,Director,Leonardo DiCaprio,Last Fields,Leonardo DiCaprio
+45,Composer,Daniel Craig,Rising Voices,Daniel Craig
+46,Writer,Jude Law,Sun and the Silver Paths,Jude Law
+47,Cinematographer,Jackie Chan,Echoes and the Silent Dreams,Kamal Haasan
+48,Cinematographer,Margot Robbie,Silent Paths,Margot Robbie
+49,Designer,America Ferrera,Fields of Hidden Horizon,Tilda Swinton
+50,VFX Supervisor,Hugh Grant,Fields of Hidden Horizon,Tilda Swinton
+51,Editor,Henry Cavill,Shadow of the Broken House,Henry Cavill
+52,Producer,Lupita Nyong'o,Winter of Paper Horizon,Lupita Nyong'o
+53,Producer,Brie Larson,Sun of Eternal Horizon,Halle Berry
+54,Producer,Dev Patel,Letters from Hidden Birds,Rose Byrne
+55,Editor,Jeff Bridges,First House,Fahadh Faasil
+56,Composer,Zhou Xun,Letters of Feral Empire,Hugh Jackman
+57,Producer,Hugh Grant,Velvet Dreams,Al Pacino
+58,Editor,Tilda Swinton,Fields of Hidden Horizon,Tilda Swinton
+59,Composer,Paul Rudd,Winter of Paper Horizon,Lupita Nyong'o
+60,Designer,Keira Knightley,Sun in Silent Storm,Keira Knightley
+61,Composer,Mark Ruffalo,Golden Winter,Mark Ruffalo
+62,Producer,Robert Niro,Silent Winter,Robert Niro
+63,VFX Supervisor,Aaron Paul,Broken Winter,Omar Sy
+64,Composer,Ken Watanabe,Shadow in Paper Sun,Ken Watanabe
+65,Editor,Sandra Bullock,Echoes from Velvet Moon,Sandra Bullock
+66,Producer,Vijay Vijay,Moon of Feral Dreams,Leonardo DiCaprio
+67,Composer,Viggo Mortensen,Sun and the Wandering Shadow,Daniel Craig
+68,Actress,Abhishek Bachchan,Paths in Eternal Paths,Daniel Craig
+69,VFX Supervisor,Ranbir Kapoor,Fields of the Broken Garden,Ranbir Kapoor
+70,Composer,Donnie Yen,Broken Waves,Donnie Yen
+71,Producer,Joaquin Phoenix,Horizon from Rising Winter,Ken Watanabe
+72,Director,Ben Whishaw,Paths of the Crimson Shadow,Wagner Lamounier
+73,Composer,Colin Firth,Electric Echoes,Colin Firth
+74,Cinematographer,Fan Bingbing,Letters from Silver Garden,Fan Bingbing
+75,Cinematographer,Colin Firth,Eternal Dreams,Michelle Yeoh
+76,Cinematographer,Saif Khan,Echoes from Atomic Empire,Saif Khan
+77,Actor,Rachel Weisz,Empire from Feral Echoes,Rachel Weisz
+78,Designer,Frances McDormand,City and the Glass Horizon,Anil Kapoor
+79,Actor,Colin Firth,Paper Voices,Colin Firth
+80,VFX Supervisor,Benedict Cumberbatch,Feral Empire,Benedict Cumberbatch
+81,VFX Supervisor,Mads Mikkelsen,Hidden Storm,Mads Mikkelsen
+82,Composer,Regina King,Paper Empire,Regina King
+83,Editor,Jamie Foxx,Quiet Garden,Tobey Maguire
+84,Editor,Shah Khan,Silver Letters,Christian Bale
+85,Designer,Ranbir Kapoor,Dreams of Silver Empire,Ranbir Kapoor
+86,VFX Supervisor,Richard Madden,River and the Eternal Moon,Richard Madden
+87,Writer,Jet Li,First Storm,Jet Li
+88,Writer,Léa Seydoux,Shadow of the Hidden Voices,Léa Seydoux
+89,Producer,Gal Gadot,Letters from Hidden Birds,Rose Byrne
+90,Producer,Sylvester Stallone,Broken Shadow,Joaquin Phoenix
+91,Actress,Mahershala Ali,Horizon from Crimson Letters,Mahershala Ali
+92,Writer,Anthony Hopkins,House from Quiet Fields,Anthony Hopkins
+93,VFX Supervisor,Joaquin Phoenix,Broken Shadow,Joaquin Phoenix
+94,Actress,Takeshi Kitano,Broken Waves,Donnie Yen
+95,Designer,Dev Patel,Crimson Garden,Dev Patel
+96,Writer,Gong Li,Silver Winter,Angelina Jolie
+97,Actor,Bryan Cranston,House of the Hidden City,Bryan Cranston
+98,Designer,Chris Evans,Neon Letters,Evangeline Lilly
+99,Actress,Woody Harrelson,Fields of the Broken Garden,Ranbir Kapoor
+100,Designer,Michael Fassbender,Birds from Atomic River,Tobey Maguire
+101,Composer,Jr NTR,Silent River,Jude Law
+102,Producer,Gael Bernal,Golden Storm,Gael Bernal
+103,VFX Supervisor,Christian Bale,Rising Moon,Christian Bale
+104,Composer,Adèle Exarchopoulos,Paths and the Silver River,Adèle Exarchopoulos
+105,Actor,Vijay Sethupathi,Last Echoes,Vijay Sethupathi
+106,Composer,Anil Kapoor,Summer in Feral Moon,Anil Kapoor
+107,Actress,Catherine Deneuve,Atomic River,Catherine Deneuve
+108,Editor,Fan Bingbing,Fields and the First Storm,Fan Bingbing
+109,Composer,Alicia Vikander,Rising Birds,Alicia Vikander
+110,Cinematographer,Michael Fassbender,Neon Paths,Michael Fassbender
+111,Editor,Denis Villeneuve,Paper House,Denis Villeneuve
+112,Cinematographer,Daniel Craig,Sun and the Wandering Shadow,Daniel Craig
+113,Editor,Ben Whishaw,Feral Summer,Ben Whishaw
+114,Producer,Karen Gillan,Horizon from Crimson Letters,Mahershala Ali
+115,VFX Supervisor,Pankaj Tripathi,Quiet Horizon,Pankaj Tripathi
+116,Actor,Nawazuddin Siddiqui,Fallen Garden,Nawazuddin Siddiqui
+117,Designer,Gary Oldman,Summer in Feral Moon,Anil Kapoor
+118,Cinematographer,Julie Delpy,Letters from Hidden Birds,Rose Byrne
+119,Director,Benedict Cumberbatch,Sun of Silver Dreams,Benedict Cumberbatch
+120,Actor,Lana Wachowski,Dreams in Hidden Birds,Anthony Hopkins
+121,Designer,Ang Lee,Silver Summer,Ang Lee
+122,Actress,Marion Cotillard,Hidden Moon,Satoshi Kon
+123,Designer,Brie Larson,Wandering Voices,Brie Larson
+124,Director,Aamir Khan,Sun and the Silver Paths,Jude Law
+125,VFX Supervisor,Johnny Depp,Waves from Last Letters,Johnny Depp
+126,Cinematographer,Sean Penn,Dreams from Glass Sun,Park Bo-gum
+127,VFX Supervisor,Sandra Bullock,Fallen Echoes,Kenji Mizoguchi
+128,Producer,Rose Byrne,Letters from Hidden Birds,Rose Byrne
+129,Cinematographer,Adam Driver,Wandering City,Adam Driver
+130,Actress,Bryan Cranston,Fields of the Broken Garden,Ranbir Kapoor
+131,Cinematographer,Devon Aoki,Paths and the Silver River,Adèle Exarchopoulos
+132,Cinematographer,Cate Shortland,Atomic Moon,Cate Shortland
+133,Actor,Sylvester Stallone,Fields and the Golden Garden,Sylvester Stallone
+134,Writer,Rami Malek,Birds of Wandering House,Jake Gyllenhaal
+135,Director,Reese Witherspoon,Golden Storm,Gael Bernal
+136,Actress,Carla Bruni,Eternal Horizon,Carla Bruni
+137,Actress,Jean Dujardin,Dreams of Electric Storm,Jean Dujardin
+138,Writer,Daniel Craig,Paths in Eternal Paths,Daniel Craig
+139,Writer,Devon Aoki,Hidden Moon,Satoshi Kon
+140,VFX Supervisor,Russell Tovey,Broken Shadow,Joaquin Phoenix
+141,Composer,Antonio Banderas,Wandering City,Adam Driver
+142,Composer,Tom Hanks,First Dreams,Zoe Saldana
+143,Writer,Vincent Cassel,Velvet Voices,Salman Khan
+144,Director,Greta Gerwig,Dreams of the Silver Sun,Greta Gerwig
+145,VFX Supervisor,Hirokazu Kore-eda,Velvet Garden,Hirokazu Kore-eda
+146,Writer,Catherine Deneuve,Horizon of Feral Summer,Catherine Deneuve
+147,Producer,Mads Mikkelsen,Shadow and the Broken Winter,Mads Mikkelsen
+148,Cinematographer,Rachel McAdams,Last Echoes,Vijay Sethupathi
+149,Producer,Choi Woo-shik,Fields and the Silver Waves,Choi Woo-shik
+150,Director,Al Pacino,Velvet Dreams,Al Pacino
+151,Editor,Shah Khan,Broken Winter,Omar Sy
+152,Actress,Tony Leung,Sun from Silent Paths,Tony Leung
+153,Actor,Rachel McAdams,Velvet Dreams,Al Pacino
+154,Director,Fahadh Faasil,First House,Fahadh Faasil
+155,Producer,Halle Berry,Neon Waves,Halle Berry
+156,Editor,Zendaya Zendaya,Moon from Paper Moon,Prabhas Prabhas
+157,Actress,Emma Stone,Fallen Moon,Idris Elba
+158,Actress,Toni Collette,Wandering Waves,Toni Collette
+159,VFX Supervisor,Florence Pugh,Summer from Velvet Empire,Florence Pugh
+160,Producer,Bryan Cranston,Velvet Dreams,Al Pacino
+161,Writer,Penélope Cruz,Sun and the Silver Paths,Jude Law
+162,Cinematographer,Tom Hanks,Quiet Garden,Tobey Maguire
+163,Producer,Satoshi Kon,Hidden Moon,Satoshi Kon
+164,Designer,Tobey Maguire,Letters from Silver Garden,Fan Bingbing
+165,Writer,Sean Penn,Last Fields,Leonardo DiCaprio
+166,Cinematographer,Choi Woo-shik,City of the Fallen Paths,Choi Woo-shik
+167,Composer,Akira Kurosawa,Last Fields,Leonardo DiCaprio
+168,Writer,Reese Witherspoon,Atomic City,Greta Gerwig
+169,Actress,Colin Firth,Velvet Echoes,Colin Firth
+170,Producer,Anil Kapoor,City and the Glass Horizon,Anil Kapoor
+171,Actress,Regina King,City and the Broken River,Regina King
+172,Director,Rose Byrne,Birds of Neon Storm,Rose Byrne
+173,Composer,Idris Elba,Fallen Moon,Idris Elba
+174,VFX Supervisor,Léa Seydoux,Wandering Voices,Brie Larson
+175,Writer,Omar Sy,Broken Winter,Omar Sy
+176,Composer,Eva Green,Glass Dreams,Tom Hardy
+177,VFX Supervisor,Keanu Reeves,Sun in Silent Storm,Keira Knightley
+178,Producer,Anthony Hopkins,Dreams in Hidden Birds,Anthony Hopkins
+179,Writer,Elizabeth Olsen,Empire in Last River,Alejandro Iñárritu
+180,Designer,Will Smith,Fields of the Broken Garden,Ranbir Kapoor
+181,Actress,Viola Davis,Silent River,Jude Law
+182,Director,Alejandro Iñárritu,Glass Horizon,Alejandro Iñárritu
+183,Editor,Jeff Bridges,Silver Winter,Angelina Jolie
+184,Editor,Angelina Jolie,Winter of the Eternal Letters,Angelina Jolie
+185,Director,Monica Bellucci,Feral Summer,Ben Whishaw
+186,Producer,Fahadh Faasil,Velvet Garden,Hirokazu Kore-eda
+187,Cinematographer,Jake Gyllenhaal,Birds of Wandering House,Jake Gyllenhaal
+188,Director,Andrew Scott,Atomic Moon,Cate Shortland
+189,Director,Irrfan Khan,Glass Horizon,Alejandro Iñárritu
+190,Writer,Lee Byung-hun,Silver Winter,Angelina Jolie
+191,Editor,Guillermo Toro,City of the Fallen Paths,Choi Woo-shik
+192,Actor,Mahesh Babu,Winter from Golden Garden,Ashley Olsen
+193,Composer,Idris Elba,Fallen Voices,Jet Li
+194,Designer,Charlize Theron,Sun of the Paper Fields,Charlize Theron
+195,Director,Nicole Kidman,Neon Letters,Evangeline Lilly
+196,Director,Zhang Ziyi,Moon of Feral Dreams,Leonardo DiCaprio
+197,Composer,Andrew Scott,Electric House,Andrew Scott
+198,Cinematographer,Ryan Gosling,Summer in Quiet Winter,Gong Yoo
+199,Cinematographer,Mila Kunis,Paths in Velvet Summer,Mila Kunis
+200,Producer,Brad Pitt,Echoes from Atomic Empire,Saif Khan
+201,Writer,Zoe Saldana,First Dreams,Zoe Saldana
+202,Writer,Keanu Reeves,Fallen Voices,Jet Li
+203,VFX Supervisor,Phoebe Waller-Bridge,Broken Winter,Omar Sy
+204,Producer,Bae Doona,Birds in Silent Birds,Abhishek Bachchan
+205,Director,Yash Yash,River and the Eternal Moon,Richard Madden
+206,Cinematographer,Angelina Jolie,Silver Winter,Angelina Jolie
+207,Actress,Cate Blanchett,Voices of the Feral Empire,Cate Blanchett
+208,Actress,Gael Bernal,Fields from Eternal Letters,Gael Bernal
+209,Actor,Lupita Nyong'o,Wandering Storm,Lupita Nyong'o
+210,Producer,Ranveer Singh,Summer from Velvet Empire,Florence Pugh
+211,VFX Supervisor,Tobey Maguire,Sun from Crimson Empire,Catherine Deneuve
+212,Director,Nora Ephron,Winter from Golden Garden,Ashley Olsen
+213,VFX Supervisor,Oscar Isaac,Shadow of Electric Winter,Oscar Isaac
+214,Director,Jennifer Lawrence,Eternal Garden,Jennifer Lawrence
+215,Writer,Carole Bouquet,Glass Shadow,Carole Bouquet
+216,VFX Supervisor,Song Kang-ho,Neon Shadow,Song Kang-ho
+217,Actress,Lilly Wachowski,Silver River,Nawazuddin Siddiqui
+218,Producer,Dhanush Dhanush,Horizon and the Neon City,Dhanush Dhanush
+219,Editor,Jason Statham,Paths and the Silver Dreams,Jason Statham
+220,Composer,Sandra Bullock,Waves of the Fallen Voices,Sandra Bullock
+221,Actress,Donnie Yen,Storm of Paper Fields,Donnie Yen
+222,Writer,Prabhas Prabhas,Moon from Paper Moon,Prabhas Prabhas
+223,Actor,Ranbir Kapoor,Last Horizon,Ranbir Kapoor
+224,Composer,Lilly Wachowski,Feral Moon,Michelle Williams
+225,Composer,Idris Elba,Silver Winter,Angelina Jolie
+226,Composer,Lupita Nyong'o,Echoes from Atomic Empire,Saif Khan
+227,Producer,Evangeline Lilly,Neon Letters,Evangeline Lilly
+228,Producer,Halle Berry,Sun of Eternal Horizon,Halle Berry
+229,Writer,Rooney Mara,Fallen Moon,Idris Elba
+230,VFX Supervisor,Gong Yoo,Summer in Quiet Winter,Gong Yoo
+231,Producer,Javier Bardem,Waves of the Fallen Voices,Sandra Bullock
+232,Editor,Tang Wei,Winter of Paper Horizon,Lupita Nyong'o
+233,Editor,Alejandro Iñárritu,Eternal Dreams,Michelle Yeoh
+234,Cinematographer,Hugh Grant,Waves in Hidden Sun,Nicole Kidman
+235,Actress,Emerald Fennell,Sun in Silent Storm,Keira Knightley
+236,Designer,Jessica Chastain,Echoes in Fallen Dreams,Jessica Chastain
+237,Editor,Tilda Swinton,Empire from Feral Echoes,Rachel Weisz
+238,Cinematographer,Park Bo-gum,Dreams from Glass Sun,Park Bo-gum
+239,Actress,Salman Khan,Velvet Voices,Salman Khan
+240,Composer,Benedict Cumberbatch,Winter of Atomic Empire,Shonda Rhimes
+241,Writer,Viola Davis,Empire from Paper Horizon,Viola Davis
+242,Actress,Nora Ephron,Garden of the Fallen Moon,Nora Ephron
+243,Director,Kenji Mizoguchi,Crimson Shadow,Kenji Mizoguchi
+244,VFX Supervisor,Orlando Bloom,Shadow from Golden Garden,Orlando Bloom
+245,Producer,Kamal Haasan,Echoes and the Silent Dreams,Kamal Haasan
+246,Writer,Wagner Lamounier,Paths of the Crimson Shadow,Wagner Lamounier
+247,Writer,Zhang Ziyi,Fallen Moon,Idris Elba
+248,Actor,Hugh Jackman,Summer in Feral Moon,Anil Kapoor
+249,Actor,Nicole Kidman,House in First Horizon,Nicole Kidman
+250,VFX Supervisor,Morgan Freeman,Quiet Garden,Tobey Maguire
+251,Editor,Jessica Chastain,Neon Winter,Jessica Chastain
+252,Writer,Keira Knightley,Fields of the Broken Garden,Ranbir Kapoor
+253,Actress,Mads Mikkelsen,Voices in Crimson Garden,Mads Mikkelsen
+254,Composer,Guillermo Toro,Fallen Moon,Idris Elba
+255,Actress,Will Smith,Silent Fields,Will Smith
+256,Editor,Javier Bardem,Fields of the Eternal Moon,Russell Crowe
+257,VFX Supervisor,Anil Kapoor,Velvet Winter,Anil Kapoor
+258,Director,Michelle Williams,Feral Moon,Michelle Williams
+259,Writer,Willem Dafoe,Birds of the First Shadow,Willem Dafoe
+260,Actor,Tobey Maguire,Fields of the Broken Garden,Ranbir Kapoor
+261,Producer,Prithviraj Sukumaran,Summer in Feral Moon,Anil Kapoor
+262,Cinematographer,Regina King,Broken Garden,Mary-Kate Olsen
+263,Director,Emma Stone,Fields of the Wandering Garden,Emma Stone
+264,Writer,Dev Patel,Horizon from Rising Winter,Ken Watanabe
+265,VFX Supervisor,Mahesh Babu,Storm and the Hidden Waves,Mahesh Babu
+266,Cinematographer,Cobie Smulders,City in Fallen Winter,Cobie Smulders
+267,Actor,Mark Ruffalo,Shadow and the Broken Winter,Mads Mikkelsen
+268,Writer,Chris Hemsworth,Birds from Neon River,Chris Hemsworth
+269,VFX Supervisor,Abhishek Bachchan,Birds in Silent Birds,Abhishek Bachchan
+270,Designer,Alicia Vikander,Moon of Feral Dreams,Leonardo DiCaprio
+271,Director,Meryl Streep,Last Horizon,Ranbir Kapoor
+272,Actor,Taika Waititi,Paths and the Silver River,Adèle Exarchopoulos
+273,Editor,Song Kang-ho,Empire from Paper Horizon,Viola Davis
+274,Writer,Ken Watanabe,Horizon from Rising Winter,Ken Watanabe
+275,Composer,Gary Oldman,Silver River,Nawazuddin Siddiqui
+276,Cinematographer,Rooney Mara,Last Echoes,Vijay Sethupathi
+277,Cinematographer,Elizabeth Olsen,Quiet Moon,Elizabeth Olsen
+278,VFX Supervisor,George Clooney,Waves from Wandering Summer,George Clooney
+279,Composer,Takeshi Kitano,Last Summer,Takeshi Kitano
+280,Director,Robert Niro,Paths and the Eternal Fields,Robert Niro
+281,Actor,Jude Law,Feral Empire,Benedict Cumberbatch
+282,Director,Greta Gerwig,Atomic City,Greta Gerwig
+283,Writer,Matthew McConaughey,Fallen Moon,Idris Elba
+284,Writer,Chow Yun-fat,Horizon and the Neon City,Dhanush Dhanush
+285,Director,Kevin Spacey,Winter from Golden Garden,Ashley Olsen
+286,Cinematographer,Irrfan Khan,Silver Summer,Ang Lee
+287,Composer,Catherine Deneuve,Sun from Crimson Empire,Catherine Deneuve
+288,Designer,Saoirse Ronan,Broken Winter,Omar Sy
+289,Actor,Alicia Vikander,Rising River,Alicia Vikander
+290,Actress,Ayushmann Khurrana,Hidden Summer,Ayushmann Khurrana
+291,VFX Supervisor,Mahesh Babu,Paths of Crimson Waves,Mahesh Babu
+292,Editor,Leonardo DiCaprio,Moon of Feral Dreams,Leonardo DiCaprio
+293,Producer,Wagner Moura,Fields of the Eternal Moon,Russell Crowe
+294,Cinematographer,Julianne Moore,Eternal Garden,Jennifer Lawrence
+295,Director,Oscar Isaac,Glass Horizon,Alejandro Iñárritu
+296,VFX Supervisor,Alejandro Iñárritu,Empire in Last River,Alejandro Iñárritu
+297,Cinematographer,Nawazuddin Siddiqui,Silver River,Nawazuddin Siddiqui
+298,Cinematographer,Pankaj Tripathi,Winter of Golden House,Pankaj Tripathi
+299,Editor,Nicole Kidman,Waves in Hidden Sun,Nicole Kidman
+300,Editor,Jude Law,Silent River,Jude Law

@@ -1,0 +1,151 @@
+Category_Id,Category_Name,Category_AwardType
+1,Best Picture,Feature Film
+2,Actor in a Leading Role,Acting
+3,Actress in a Leading Role,Acting
+4,Actor in a Supporting Role,Acting
+5,Actress in a Supporting Role,Acting
+6,Directing,Directing
+7,Writing (Original Screenplay),Writing
+8,Writing (Adapted Screenplay),Writing
+9,International Feature Film,Feature Film
+10,Animated Feature Film,Feature Film
+11,Documentary Feature,Documentary
+12,Documentary Short Film,Documentary
+13,Animated Short Film,Other
+14,Live Action Short Film,Other
+15,Cinematography,Technical
+16,Film Editing,Technical
+17,Production Design,Technical
+18,Costume Design,Technical
+19,Makeup and Hairstyling,Technical
+20,Sound,Technical
+21,Visual Effects,Technical
+22,Original Score,Technical
+23,Original Song,Technical
+24,Unique and Artistic Picture,Feature Film
+25,Assistant Director,Directing
+26,Best Title Writing,Writing
+27,Dance Direction,Directing
+28,Best Engineering Effects,Technical
+29,Best Sound Recording,Technical
+30,Best Art Direction,Directing
+31,Best Interior Decoration,Other
+32,Best Short Subject (One-Reel),Other
+33,Best Short Subject (Two-Reel),Other
+34,Best Short Subject (Color),Other
+35,Best Story,Writing
+36,Best Original Story,Writing
+37,Special Achievement Award,Other
+38,Technical Achievement Award,Other
+39,Honorary Award,Other
+40,Sound Editing (1),Technical
+41,Sound Editing (2),Technical
+42,Sound Editing (3),Technical
+43,Sound Editing (4),Technical
+44,Sound Editing (5),Technical
+45,Sound Editing (6),Technical
+46,Sound Editing (7),Technical
+47,Sound Editing (8),Technical
+48,Sound Mixing (1),Technical
+49,Sound Mixing (2),Technical
+50,Sound Mixing (3),Technical
+51,Sound Mixing (4),Technical
+52,Sound Mixing (5),Technical
+53,Sound Mixing (6),Technical
+54,Sound Mixing (7),Technical
+55,Sound Mixing (8),Technical
+56,Special Visual Effects (1),Technical
+57,Special Visual Effects (2),Technical
+58,Special Visual Effects (3),Technical
+59,Special Visual Effects (4),Technical
+60,Special Visual Effects (5),Technical
+61,Special Visual Effects (6),Technical
+62,Special Visual Effects (7),Technical
+63,Special Visual Effects (8),Technical
+64,Color Cinematography (1),Technical
+65,Color Cinematography (2),Technical
+66,Color Cinematography (3),Technical
+67,Color Cinematography (4),Technical
+68,Color Cinematography (5),Technical
+69,Color Cinematography (6),Technical
+70,Color Cinematography (7),Technical
+71,Color Cinematography (8),Technical
+72,Black-and-White Cinematography (1),Technical
+73,Black-and-White Cinematography (2),Technical
+74,Black-and-White Cinematography (3),Technical
+75,Black-and-White Cinematography (4),Technical
+76,Black-and-White Cinematography (5),Technical
+77,Black-and-White Cinematography (6),Technical
+78,Black-and-White Cinematography (7),Technical
+79,Black-and-White Cinematography (8),Technical
+80,Documentary Short Subject (1),Documentary
+81,Documentary Short Subject (2),Documentary
+82,Documentary Short Subject (3),Documentary
+83,Documentary Short Subject (4),Documentary
+84,Documentary Short Subject (5),Documentary
+85,Documentary Short Subject (6),Documentary
+86,Documentary Short Subject (7),Documentary
+87,Documentary Short Subject (8),Documentary
+88,Short Subject (Cartoon) (1),Other
+89,Short Subject (Cartoon) (2),Other
+90,Short Subject (Cartoon) (3),Other
+91,Short Subject (Cartoon) (4),Other
+92,Short Subject (Cartoon) (5),Other
+93,Short Subject (Cartoon) (6),Other
+94,Short Subject (Cartoon) (7),Other
+95,Short Subject (Cartoon) (8),Other
+96,Short Subject (Live Action) (1),Other
+97,Short Subject (Live Action) (2),Other
+98,Short Subject (Live Action) (3),Other
+99,Short Subject (Live Action) (4),Other
+100,Short Subject (Live Action) (5),Other
+101,Short Subject (Live Action) (6),Other
+102,Short Subject (Live Action) (7),Other
+103,Short Subject (Live Action) (8),Other
+104,Original Musical (1),Other
+105,Original Musical (2),Other
+106,Original Musical (3),Other
+107,Original Musical (4),Other
+108,Original Musical (5),Other
+109,Original Musical (6),Other
+110,Original Musical (7),Other
+111,Original Musical (8),Other
+112,Score Adaptation (1),Technical
+113,Score Adaptation (2),Technical
+114,Score Adaptation (3),Technical
+115,Score Adaptation (4),Technical
+116,Score Adaptation (5),Technical
+117,Score Adaptation (6),Technical
+118,Score Adaptation (7),Technical
+119,Score Adaptation (8),Technical
+120,Special Award (1),Other
+121,Special Award (2),Other
+122,Special Award (3),Other
+123,Special Award (4),Other
+124,Special Award (5),Other
+125,Special Award (6),Other
+126,Special Award (7),Other
+127,Special Award (8),Other
+128,Special Award (9),Other
+129,Special Award (10),Other
+130,Special Award (11),Other
+131,Special Award (12),Other
+132,Special Award (13),Other
+133,Special Award (14),Other
+134,Special Award (15),Other
+135,Special Award (16),Other
+136,Special Award (17),Other
+137,Special Award (18),Other
+138,Special Award (19),Other
+139,Special Award (20),Other
+140,Special Award (21),Other
+141,Special Award (22),Other
+142,Special Award (23),Other
+143,Special Award (24),Other
+144,Special Award (25),Other
+145,Special Award (26),Other
+146,Special Award (27),Other
+147,Special Award (28),Other
+148,Special Award (29),Other
+149,Special Award (30),Other
+150,Special Award (31),Other
