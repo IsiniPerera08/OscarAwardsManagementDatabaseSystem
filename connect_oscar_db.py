@@ -1,8 +1,3 @@
-# connect_oscar_db.py
-# Author: Isini Ayansa Perera
-# Curtin ID: 23601321
-# Purpose: Demonstration of Python ↔ MySQL connectivity for the OscarAwards Database
-
 import mysql.connector
 
 def main():
@@ -16,7 +11,7 @@ def main():
         )
 
         if conn.is_connected():
-            print("✅ Connected to MySQL successfully!")
+            print(" Connected to MySQL successfully!")
 
         # Step 2 — Create a cursor
         cursor = conn.cursor()
@@ -27,7 +22,7 @@ def main():
         print(f"Total films in database: {film_count}")
 
         # Step 4 — Example 2: call stored procedure WinnersByYear
-        print("\n🏆 Winners from 2016:")
+        print("\n Winners from 2016:")
         cursor.callproc("WinnersByYear", (2016,))
         for result in cursor.stored_results():
             for row in result.fetchall():
@@ -38,7 +33,7 @@ def main():
         cursor.execute("CALL CountFilmNominations('Silent River', @out_total);")
         cursor.execute("SELECT @out_total;")
         nominations = cursor.fetchone()[0]
-        print(f"\n🎥 Total nominations for 'Silent River': {nominations}")
+        print(f"\n Total nominations for 'Silent River': {nominations}")
 
         # Step 6 — Close connection
         cursor.close()
@@ -46,7 +41,7 @@ def main():
         print("\nConnection closed successfully.")
 
     except mysql.connector.Error as e:
-        print(f"❌ Database error: {e}")
+        print(f" Database error: {e}")
     except Exception as e:
         print(f"⚠️ Unexpected error: {e}")
 
